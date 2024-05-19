@@ -26,7 +26,7 @@ GitHub Clone is a full-stack web application built using the MERN stack (MongoDB
 
 ### Backend Setup
 ## Clone the repository:
-  git clone https://github.com/yourusername/github-clone.git
+  git clone https://github.com/Kirtikaa25/MERN-Github
    
    cd github-clone
    
@@ -64,8 +64,11 @@ npm start
 
 ## Usage
 Visit http://localhost:3000 in your web browser.
+
 Use the search bar to find GitHub repositories and users.
+
 Click on repositories or users to view detailed information.
+
 Authenticate using your GitHub account to access additional features.
 
 
@@ -73,18 +76,28 @@ Authenticate using your GitHub account to access additional features.
 Here are some key API endpoints provided by the backend:
 
 GET /api/github/search/repositories?q={query} - Search for repositories
+
 GET /api/github/search/users?q={query} - Search for users
+
 GET /api/github/repositories/{owner}/{repo} - Get repository details
+
 GET /api/github/users/{username} - Get user details
+
 GET /auth/github - Authenticate using GitHub OAuth
+
 GET /auth/github/callback - GitHub OAuth callback
 
 ## Technologies Used
 Frontend: React,React Router,TailwindCSS
+
 Backend: Node.js, Express.js
+
 Authentication: Passport.js, GitHub OAuth
+
 Database: MongoDB and Mongoose
+
 Version Control: Git
+
 API: GitHub API
 
 
