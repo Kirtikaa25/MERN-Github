@@ -1,4 +1,6 @@
 GitHub Clone
+
+
 A GitHub clone built using the MERN stack (MongoDB, Express, React, Node.js) and GitHub API.
 
 Table of Contents
