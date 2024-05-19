@@ -102,7 +102,8 @@ API: GitHub API
 
 
 ## Preview of the app
-
+![171af412-1c56-4eb1-ae12-a1c94e3e138e](https://github.com/Kirtikaa25/MERN-Github/assets/100124517/9e008435-e296-4aa0-a7f4-2de4e88cd145)
+![050f0ec3-d406-455c-9ad1-f9872a85ffe0](https://github.com/Kirtikaa25/MERN-Github/assets/100124517/daf48d3a-16ee-4171-b02d-968cd41d1acf)
 
 
 
