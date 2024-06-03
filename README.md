@@ -1,8 +1,5 @@
 # GitHub Clone
 
-## Overview
-GitHub Clone is a full-stack web application built using the MERN stack (MongoDB, Express.js, React, Node.js) and integrates with the GitHub API. This application allows users to search for GitHub repositories and users, view detailed information about them, and perform various interactions similar to the actual GitHub platform.
-
 ## Table of Contents
 - [Overview]
 - [Features]
@@ -10,6 +7,10 @@ GitHub Clone is a full-stack web application built using the MERN stack (MongoDB
 - [Usage]
 - [API Endpoints]
 - [Technologies Used]
+
+  
+## Overview
+GitHub Clone is a full-stack web application built using the MERN stack (MongoDB, Express.js, React, Node.js) and integrates with the GitHub API. This application allows users to search for GitHub repositories and users, view detailed information about them, and perform various interactions similar to the actual GitHub platform.
 
 ## Features
 - Search for GitHub repositories and users
